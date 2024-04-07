@@ -1,0 +1,40 @@
+ Book name : One Hundred Years of Solitude
+ Book ID : 2
+ Author name : Gabriel García Márquez
+ number of copies : 3
+___________________________________________________________________________________________________________
+ Book name : Pride and Prejudice
+ Book ID : 3
+ Author name : Jane Austen
+ number of copies : 5
+___________________________________________________________________________________________________________
+ Book name : To Kill a Mockingbird
+ Book ID : 5
+ Author name : Harper Lee
+ number of copies : 13
+___________________________________________________________________________________________________________
+ Book name : lolita
+ Book ID : 6
+ Author name : Vladimir Nabokov
+ number of copies : 3
+___________________________________________________________________________________________________________
+ Book name : 1984
+ Book ID : 7
+ Author name : George Orwell
+ number of copies : 30
+___________________________________________________________________________________________________________
+ Book name : Moby-Dick
+ Book ID : 8
+ Author name : Herman Melville
+ number of copies : 6
+___________________________________________________________________________________________________________
+ Book name : hamlet
+ Book ID : 9
+ Author name : William Shakespeare
+ number of copies : 7
+___________________________________________________________________________________________________________
+ Book name : winds of the winter
+ Book ID : 90
+ Author name : sersi lancster
+ number of copies : 24
+___________________________________________________________________________________________________________
